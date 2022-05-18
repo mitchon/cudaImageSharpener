@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "targa.h": "c",
+        "cuda_runtime.h": "c",
+        "device_launch_parameters.h": "c",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp",
+        "iterator": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
